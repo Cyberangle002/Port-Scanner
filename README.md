@@ -1,4 +1,4 @@
-# Port-Scanner
+
 # Port Scanner
 
 This is a simple Python-based port scanner that helps identify open ports on a remote server. The tool checks if a given set of ports (e.g., 80, 443) are open and prints the result. It's useful for network security assessments.
